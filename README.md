@@ -1,4 +1,4 @@
-# BERT-for-Text-Classification
+# Finetuning-BERT-for-Text-Classification
 
 fine tuning BERT using Pytorch for medical text classification
 
